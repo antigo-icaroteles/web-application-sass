@@ -1,2 +1,13 @@
-# web-application-sass
-Uma Aplicação Web desenvolvida com HTML e CSS SASS
+# WEB APPLICATION SASS  
+
+> Projeto Concluído  
+
+## Descrição  
+
+- Trata-se de uma galeria de fotos.  
+
+## Tecnologias Utilizadas  
+
+- HTML  
+- CSS SASS  
+
